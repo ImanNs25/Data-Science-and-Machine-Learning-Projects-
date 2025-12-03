@@ -3,11 +3,11 @@
 
 ##  Education
 
-DePaul University  
-Sep 2021 – Nov 2025*  
-B.S. in Data Science and Finance  
-- Honors Program | GPA: 3.9
-- Relevant Courses: Machine Learning, Bayesian Stats, Econometrics, Data Structures, Corporate Finance, Applied Probability & Modeling
+    DePaul University  
+    Sep 2021 – Nov 2025*  
+    B.S. in Data Science and Finance  
+    Honors Program | GPA: 3.9
+    Relevant Courses: Machine Learning, Bayesian Stats, Econometrics, Data Structures, Corporate Finance, Applied Probability & Modeling
 ---
 
 ##  About Me
@@ -27,14 +27,14 @@ DePaul University graduate with a strong academic record and hands-on experience
 ###  Car Transmission Prediction - Using Bayesian Logistic Regression 
 - **Tech:** R
 - **Goal:** Predict car tranmission type (automatic v manual) using Bayesian Logisitc Regression as opposed to frequentist.
-- [View Report (PDF)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Car transmission prediciton - Bayesian Logistic Regression Analysis(SSVS).pdf")
-- [View Code (R File)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Car transmission prediciton - JAGS CODE.R")
+- [Car Transmission Prediction Report (PDF)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Car transmission prediciton - Bayesian Logistic Regression Analysis(SSVS).pdf")
+- [Bayesian Logistic Regression JAGS Code (R File)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Car transmission prediciton - JAGS CODE.R")
 
 ### Stock Market Sentiment Analysis
 - **Tech:** Python, Excel
 - **Goal:** Build a predictive model that can predict how investors feel about the stock market.
-- [View Report (PDF)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Stock Market Sentiment Analysis.pdf")
-- *View in Markdown:* [project-name.md]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Financial Sentiment Analysis Markdown.ipynb") 
+- [Stock Market Sentiment (PDF)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Stock Market Sentiment Analysis.pdf")
+- [Stock Market Sentiment.md]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Financial Sentiment Analysis Markdown.ipynb") 
 
 
 ---
@@ -43,8 +43,7 @@ DePaul University graduate with a strong academic record and hands-on experience
 
 ##  Let's Connect
 
- [LinkedIn]([[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)) 
-
+[Linkedin]("[C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Stock Market Sentiment Analysis.pdf](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)")
 ---
 
 *Thanks for visiting my portfolio!* 
