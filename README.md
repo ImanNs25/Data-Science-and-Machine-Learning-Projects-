@@ -3,7 +3,7 @@
 
 ##  Education
 
-DePaul University**  
+DePaul University  
 Sep 2021 – Nov 2025*  
 B.S. in Data Science and Finance  
 - Honors Program | GPA: 3.9
