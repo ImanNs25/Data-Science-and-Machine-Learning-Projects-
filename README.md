@@ -4,7 +4,7 @@
 ##  Education
 
 DePaul University  
-Sep 2021 – Nov 2025*  
+Sep 2021 – Nov 2025  
 B.S. in Data Science and Finance  
 Honors Program | GPA: 3.9
 Relevant Courses: Machine Learning, Bayesian Stats, Econometrics, Data Structures, Corporate Finance, Applied Probability & Modeling
@@ -25,16 +25,20 @@ DePaul University graduate with a strong academic record and hands-on experience
 
 
 ###  Car Transmission Prediction - Using Bayesian Logistic Regression 
-- **Tech:** R
-- **Goal:** Predict car tranmission type (automatic v manual) using Bayesian Logisitc Regression as opposed to frequentist.
-- [Car Transmission Prediction Report (PDF)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Car transmission prediciton - Bayesian Logistic Regression Analysis(SSVS).pdf")
-- [Bayesian Logistic Regression JAGS Code (R File)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Car transmission prediciton - JAGS CODE.R")
+- Tech: R
+- Goal: Predict car tranmission type (automatic v manual) using Bayesian Logisitc Regression as opposed to frequentist.
+- [View PDF Report](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/Car%20transmission%20prediciton%20-%20Bayesian%20Logistic%20Regression%20Analysis(SSVS).pdf)
+
+- [View R Code](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/Car%20transmission%20prediciton%20-%20JAGS%20CODE.R)
+
 
 ### Stock Market Sentiment Analysis
-- **Tech:** Python, Excel
-- **Goal:** Build a predictive model that can predict how investors feel about the stock market.
-- [Stock Market Sentiment (PDF)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Stock Market Sentiment Analysis.pdf")
-- [Stock Market Sentiment.md]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Financial Sentiment Analysis Markdown.ipynb") 
+- Tech: Python, Excel
+- Goal:Build a predictive model that can predict how investors feel about the stock market.
+- [View Sentiment Report](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/Stock%20Market%20Sentiment%20Analysis.pdf)
+
+- [View Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/Financial%20Sentiment%20Analysis%20Markdown.ipynb)
+
 
 
 ---
@@ -43,7 +47,8 @@ DePaul University graduate with a strong academic record and hands-on experience
 
 ##  Let's Connect
 
-[Linkedin]("https://www.linkedin.com/in/iman-sellars-0b9b151b4/")
+[LinkedIn](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)
+
 ---
 
 *Thanks for visiting my portfolio!* 
