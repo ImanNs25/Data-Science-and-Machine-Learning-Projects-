@@ -17,50 +17,36 @@ DePaul University graduate with a strong academic record and hands-on experience
 
 ##  Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/SAS_logo_horiz.svg" alt="SAS" height="40" /> </p>
 
 ---
 
 ##  Projects
 
-Here are some of the data science & finance projects I’ve worked on. Click to view full reports and interactive notebooks:
 
-###  Marketing Performance Dashboard (Capstone)
-- **Tech:** Python, SQL, Tableau
-- **Goal:** Analyze and visualize marketing performance over time.
-- [View Report (PDF)](./SSR_TSRPT.pdf)
+###  Car Transmission Prediction - Using Bayesian Logistic Regression 
+- **Tech:** R
+- **Goal:** Predict car tranmission type (automatic v manual) using Bayesian Logisitc Regression as opposed to frequentist.
+- [View Report (PDF)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Car transmission prediciton - Bayesian Logistic Regression Analysis(SSVS).pdf")
+- [View Code (R File)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Car transmission prediciton - JAGS CODE.R")
 
-### Forecasting Investment Strategy Outcomes
-- **Tech:** Python (NumPy, Pandas), Excel
-- **Focus:** Cleaned and modeled investment data to support strategy presentations.
-- *Report coming soon*
+### Stock Market Sentiment Analysis
+- **Tech:** Python, Excel
+- **Goal:** Build a predictive model that can predict how investors feel about the stock market.
+- [View Report (PDF)]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Stock Market Sentiment Analysis.pdf")
+- *View in Markdown:* [project-name.md]("C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Financial Sentiment Analysis Markdown.ipynb") 
 
-###  Regression Analysis on Financial KPIs
-- **Tech:** Python, SciPy, Jupyter Notebooks
-- **Outcome:** Built models for KPI forecasting using Bayesian inference.
-- *View in Markdown:* [project-name.md](./project-name.md) <!-- Replace with your actual MD link -->
-
-> 📌 You can link more Markdown or PDF reports just like this. Upload them to your GitHub repo, then update the link paths above.
 
 ---
 
 
 
-## 📈 Let's Connect
+##  Let's Connect
 
 I'm always looking to connect with fellow data enthusiasts, potential collaborators, and professionals in finance & analytics. Feel free to reach out!
 
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) <!-- Replace with your actual LinkedIn URL -->  
+ [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)) <!-- Replace with your actual LinkedIn URL -->  
 
 ---
 
-*Thanks for visiting my portfolio!* 🌟
+*Thanks for visiting my portfolio!* 
