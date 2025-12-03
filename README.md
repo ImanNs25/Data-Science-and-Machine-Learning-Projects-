@@ -43,9 +43,7 @@ DePaul University graduate with a strong academic record and hands-on experience
 
 ##  Let's Connect
 
-I'm always looking to connect with fellow data enthusiasts, potential collaborators, and professionals in finance & analytics. Feel free to reach out!
-
- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)) <!-- Replace with your actual LinkedIn URL -->  
+ [LinkedIn]([[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)) 
 
 ---
 
