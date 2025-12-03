@@ -3,11 +3,11 @@
 
 ##  Education
 
-    DePaul University  
-    Sep 2021 – Nov 2025*  
-    B.S. in Data Science and Finance  
-    Honors Program | GPA: 3.9
-    Relevant Courses: Machine Learning, Bayesian Stats, Econometrics, Data Structures, Corporate Finance, Applied Probability & Modeling
+DePaul University  
+Sep 2021 – Nov 2025*  
+B.S. in Data Science and Finance  
+Honors Program | GPA: 3.9
+Relevant Courses: Machine Learning, Bayesian Stats, Econometrics, Data Structures, Corporate Finance, Applied Probability & Modeling
 ---
 
 ##  About Me
@@ -43,7 +43,7 @@ DePaul University graduate with a strong academic record and hands-on experience
 
 ##  Let's Connect
 
-[Linkedin]("[C:\Users\isell\Downloads\Portfolio Project Reports and Markdowns\Stock Market Sentiment Analysis.pdf](https://www.linkedin.com/in/iman-sellars-0b9b151b4/)")
+[Linkedin]("https://www.linkedin.com/in/iman-sellars-0b9b151b4/")
 ---
 
 *Thanks for visiting my portfolio!* 
