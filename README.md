@@ -44,11 +44,11 @@ DePaul University graduate with a strong academic record and hands-on experience
 ### 🎓 Predicting Student Graduation vs Dropout
 - **Tech:** Python, Scikit-learn, XGBoost, Excel  
 - **Goal:** Use machine learning to classify students as graduates or dropouts based on academic and financial features. Compared three models: Logistic Regression, Random Forest, and XGBoost.
-- [📄 View Final Report (PDF)](./projects/graduation_model_report.pdf)
+- [📄 View Final Report (PDF)](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/graduation_model_report.pdf)
 
-- [📘 Logistic Regression Notebook](./notebooks/logistic_regression.ipynb)
-- [🌲 Random Forest Notebook](./notebooks/random_forest.ipynb)
-- [⚡ XGBoost Notebook](./notebooks/xgboost_model.ipynb)
+- [📘 Logistic Regression Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/logistic_regression.ipynb)
+- [🌲 Random Forest Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/random_forest.ipynb)
+- [⚡ XGBoost Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/xgboost_model.ipynb)
 
 
 
