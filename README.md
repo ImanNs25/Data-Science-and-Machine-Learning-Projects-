@@ -41,21 +41,17 @@ DePaul University graduate with a strong academic record and hands-on experience
 
 
 
-### Predicting Graduation Rates 
-- Tech: Python, Excel
-- Goal: Survey different binary classifications methods to find optimal machine learning model for graduation rates 
-- [View Sentiment Report](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/Stock%20Market%20Sentiment%20Analysis.pdf)
+### 🎓 Predicting Student Graduation vs Dropout
+- **Tech:** Python, Scikit-learn, XGBoost, Excel  
+- **Goal:** Use machine learning to classify students as graduates or dropouts based on academic and financial features. Compared three models: Logistic Regression, Random Forest, and XGBoost.
+- [📄 View Final Report (PDF)](./projects/graduation_model_report.pdf)
 
-- [View Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/Financial%20Sentiment%20Analysis%20Markdown.ipynb)
-
-
-
-
----
+- [📘 Logistic Regression Notebook](./notebooks/logistic_regression.ipynb)
+- [🌲 Random Forest Notebook](./notebooks/random_forest.ipynb)
+- [⚡ XGBoost Notebook](./notebooks/xgboost_model.ipynb)
 
 
 
-##  Let's Connect
 
 
 
