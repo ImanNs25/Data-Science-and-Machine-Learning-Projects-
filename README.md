@@ -40,7 +40,6 @@ DePaul University graduate with a strong academic record and hands-on experience
 - [View Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/Financial%20Sentiment%20Analysis%20Markdown.ipynb)
 
 
-[⚡ XGBoost Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/xgboost_model.ipynb)
 
 
 
