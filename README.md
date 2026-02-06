@@ -40,15 +40,7 @@ DePaul University graduate with a strong academic record and hands-on experience
 - [View Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/Financial%20Sentiment%20Analysis%20Markdown.ipynb)
 
 
-
-### 🎓 Predicting Student Graduation vs Dropout
-- **Tech:** Python, Scikit-learn, XGBoost, Excel  
-- **Goal:** Predict graduation outcomes using machine learning. Compared Logistic Regression, Random Forest, and XGBoost.
-- [📄 View Final Report (PDF)](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/graduation_model_report.pdf)
-
-- [📘 Logistic Regression Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/logistic_regression.ipynb)
-- [🌲 Random Forest Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/random_forest.ipynb)
-- [⚡ XGBoost Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/xgboost_model.ipynb)
+[⚡ XGBoost Notebook](https://imanns25.github.io/Data-Science-and-Machine-Learning-Projects-/xgboost_model.ipynb)
 
 
 
